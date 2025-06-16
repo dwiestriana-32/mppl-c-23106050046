@@ -1,0 +1,24 @@
+Nama: Dwi Estriana 
+Nim: 23106050046 
+
+jabawab:
+1. Metode Agile memiliki kelebihan seperti fleksibilitas tinggi dalam 
+menghadapi perubahan, iterasi singkat yang memungkinkan feedback 
+cepat, kolaborasi tim yang lebih baik, produk dapat dirilis lebih cepat,
+fokus pada nilai bisnis, serta mengurangi risiko kegagalan proyek.
+
+2. Tugas seorang Scrum Master adalah memfasilitasi jalannya proses Scrum,
+membantu menghilangkan hambatan yang dihadapi tim, mendukung
+Product Owner dan tim pengembang, menjaga agar tim tetap fokus pada
+tujuan sprint, melindungi tim dari gangguan luar, serta mendorong
+perbaikan berkelanjutan dalam proses kerja.
+
+3. WIP (Work In Progress) dalam Kanban adalah batasan jumlah pekerjaan
+yang sedang dikerjakan sekaligus agar tim tidak terlalu banyak melakukan
+multitasking dan menjaga alur kerja tetap efektif dan lancar.
+
+4. Jenis version control system terdiri dari Local VCS yang menyimpan versi
+file secara lokal di komputer, Centralized VCS yang menyimpan semua 
+versi di server pusat seperti SVN, dan Distributed VCS yang setiap
+pengguna memiliki salinan lengkap repository di komputer masing-
+masing seperti Git.
